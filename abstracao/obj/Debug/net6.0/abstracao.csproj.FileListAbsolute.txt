@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\abstracao.exe
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\abstracao.deps.json
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\abstracao.runtimeconfig.json
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\abstracao.dll
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\ref\abstracao.dll
+C:\workspace\fevereiro-2022\abstracao\bin\Debug\net6.0\abstracao.pdb
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.dll
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\ref\abstracao.dll
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.pdb
+C:\workspace\fevereiro-2022\abstracao\obj\Debug\net6.0\abstracao.genruntimeconfig.cache
