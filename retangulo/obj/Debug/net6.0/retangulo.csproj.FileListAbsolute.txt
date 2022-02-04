@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\retangulo.exe
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\retangulo.deps.json
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\retangulo.runtimeconfig.json
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\retangulo.dll
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\ref\retangulo.dll
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\bin\Debug\net6.0\retangulo.pdb
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.dll
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\ref\retangulo.dll
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.pdb
+C:\workspace\fevereiro-2022\abstracao\Models\retangulo\obj\Debug\net6.0\retangulo.genruntimeconfig.cache
