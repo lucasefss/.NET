@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\cadastro-livros.exe
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\cadastro-livros.deps.json
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\cadastro-livros.runtimeconfig.json
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\cadastro-livros.dll
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\ref\cadastro-livros.dll
+C:\workspace\fevereiro-2022\cadastro-livros\bin\Debug\net6.0\cadastro-livros.pdb
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.dll
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\ref\cadastro-livros.dll
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.pdb
+C:\workspace\fevereiro-2022\cadastro-livros\obj\Debug\net6.0\cadastro-livros.genruntimeconfig.cache
