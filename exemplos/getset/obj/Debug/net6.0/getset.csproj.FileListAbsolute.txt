@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\getset.exe
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\getset.deps.json
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\getset.runtimeconfig.json
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\getset.dll
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\ref\getset.dll
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\bin\Debug\net6.0\getset.pdb
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.dll
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\ref\getset.dll
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.pdb
+C:\workspace\fevereiro-2022\construtores\Exemplos\construtores\get-set\getset\obj\Debug\net6.0\getset.genruntimeconfig.cache
