@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\array-ver.exe
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\array-ver.deps.json
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\array-ver.runtimeconfig.json
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\array-ver.dll
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\ref\array-ver.dll
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\bin\Debug\net6.0\array-ver.pdb
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.dll
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\ref\array-ver.dll
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.pdb
+C:\workspace\fevereiro-2022\meus-projetos\arrays\array-ver\obj\Debug\net6.0\array-ver.genruntimeconfig.cache
