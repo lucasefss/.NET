@@ -1,0 +1,15 @@
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\dicionario.exe
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\dicionario.deps.json
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\dicionario.runtimeconfig.json
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\dicionario.dll
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\ref\dicionario.dll
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\bin\Debug\net6.0\dicionario.pdb
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.csproj.AssemblyReference.cache
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.AssemblyInfoInputs.cache
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.AssemblyInfo.cs
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.csproj.CoreCompileInputs.cache
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.dll
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\ref\dicionario.dll
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.pdb
+C:\workspace\fevereiro-2022\meus-projetos\dicionario\obj\Debug\net6.0\dicionario.genruntimeconfig.cache
