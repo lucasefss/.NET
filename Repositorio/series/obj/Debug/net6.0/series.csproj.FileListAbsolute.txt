@@ -1,0 +1,15 @@
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\series.exe
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\series.deps.json
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\series.runtimeconfig.json
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\series.dll
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\ref\series.dll
+C:\users\Ragnar\desktop\series\bin\Debug\net6.0\series.pdb
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.csproj.AssemblyReference.cache
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.AssemblyInfoInputs.cache
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.AssemblyInfo.cs
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.csproj.CoreCompileInputs.cache
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.dll
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\ref\series.dll
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.pdb
+C:\users\Ragnar\desktop\series\obj\Debug\net6.0\series.genruntimeconfig.cache
